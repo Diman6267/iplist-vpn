@@ -21,15 +21,15 @@ music
 news
 
 # Выключено по умолчанию — раскомментируйте то, что нужно:
-# tools
-# education
+ tools
+ education
 # games
-# anime
-# art
-# torrent
-# finance
-# hosting
-# jetbrains
-# shop
-# casino
-# porn
+ anime
+ art
+ torrent
+ finance
+ hosting
+ jetbrains
+ shop
+ casino
+ porn
