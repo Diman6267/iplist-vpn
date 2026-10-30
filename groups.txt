@@ -1,0 +1,35 @@
+# Группы iplist, которые должны идти ЧЕРЕЗ VPN. Всё остальное пойдёт напрямую.
+# Одна группа на строку. Строка с # в начале выключена (уберите # — включите).
+# Полный список групп: https://github.com/rekryt/iplist/tree/master/config
+#
+# ai          ChatGPT, Claude, Gemini (aistudio), DeepSeek, Grok, Perplexity ...
+# discord     Discord
+# youtube     YouTube и его CDN
+# socials     Facebook, Instagram, X, TikTok, LinkedIn ...
+# messengers  Telegram, WhatsApp, Signal, Viber ...
+# video       Netflix, HDRezka, LostFilm ...
+# music       Spotify, SoundCloud, Deezer ...
+# news        независимые СМИ (BBC, DW, Медуза и т.д.)
+
+ai
+discord
+youtube
+socials
+messengers
+video
+music
+news
+
+# Выключено по умолчанию — раскомментируйте то, что нужно:
+# tools
+# education
+# games
+# anime
+# art
+# torrent
+# finance
+# hosting
+# jetbrains
+# shop
+# casino
+# porn
