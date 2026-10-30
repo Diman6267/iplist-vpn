@@ -1,2 +1,2 @@
-groups: ai discord youtube socials messengers video music news
+groups: ai discord youtube socials messengers video music news tools education anime art torrent finance hosting jetbrains shop casino porn
 source: https://iplist.opencck.org
